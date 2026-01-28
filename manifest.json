@@ -1,0 +1,33 @@
+
+{
+  "short_name": "FinanceIQ",
+  "name": "FinanceIQ - Inteligência Bancária Nexus",
+  "description": "A plataforma definitiva para gerir dados bancários e multiplicar patrimônio com IA.",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/3135/3135706.png",
+      "type": "image/png",
+      "sizes": "192x192",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/3135/3135706.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": "index.html",
+  "display": "standalone",
+  "theme_color": "#1e293b",
+  "background_color": "#ffffff",
+  "orientation": "portrait",
+  "categories": ["finance", "productivity"],
+  "shortcuts": [
+    {
+      "name": "Dashboard",
+      "url": "index.html",
+      "icons": [{ "src": "https://cdn-icons-png.flaticon.com/512/3135/3135706.png", "sizes": "192x192" }]
+    }
+  ]
+}
